@@ -18,4 +18,4 @@ Arduino Circuit :
 
 https://www.tinkercad.com/things/gxrcyNVRW4j-radar-system
 
-![Radar System model](Radar System model.png)
+![Radar System Model](Radar System model.png)
