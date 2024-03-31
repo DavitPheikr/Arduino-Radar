@@ -17,3 +17,5 @@ The experiment involved connecting a servo motor and the ultrasonic sensor to th
 Arduino Circuit :
 
 https://www.tinkercad.com/things/gxrcyNVRW4j-radar-system
+
+![Radar System model](Radar System model.png)
