@@ -1,5 +1,5 @@
-# Arduino-Radar
-Arduino Radar Like device with Python implementation
+# Arduino-Radar-System
+Arduino Radar System with Python implementation
 
 
 This project aimed to build a radar-like device utilizing various components, such as an Arduino microcontroller, an ultrasonic sensor, and a servo motor. The functionality of the device involved detecting objects within its range, processing the data, and creating a real-time representation of the surroundings.
